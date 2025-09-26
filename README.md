@@ -23,7 +23,7 @@ I'm a passionate Full-Stack Web Developer with a focus on creating modern, scala
 Practicing on Codewars and working on challenges. You can also visit my repository where I record challenges from Codewars and other resources.
 
 - **Codewars Rank:** 6 kyu  
-- **Profile:** [My Codewars](https://www.codewars.com/users/yourusername)  
+- **Profile:** [My Codewars](https://www.codewars.com/users/Akrmh)  
 
 ---
 
