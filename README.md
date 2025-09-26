@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akrmh Mohamedzain
 
-🌍 Based in Rwanda | 💻 Full-Stack Developer @Alight-Rw  
+🌍 Based in Rwanda | 💻 Full-Stack Developer  
 Turning ideas into clean, scalable, impactful solutions
 
 ---
